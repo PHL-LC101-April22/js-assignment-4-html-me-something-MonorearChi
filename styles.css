@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: burlywood;
+    background-color: ;
     font-size: 1.75em;
     align-content: center;
     padding: 2em 0;
@@ -33,6 +33,7 @@ h3,
 h4,
 h5 {
     margin: 0;
+    background-color: burlywood;
 }
 
 h1,
