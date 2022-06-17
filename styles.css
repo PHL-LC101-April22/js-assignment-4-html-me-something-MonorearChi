@@ -1,1 +1,56 @@
 /* Write your CSS here! */
+body {
+    width: 95%;
+    max-width: 700px;
+    margin: 8px;
+    background-color: beige;
+    font-size: 70%;
+}
+
+header {
+    font-size: 1.75em;
+    align-content: center;
+    padding: 2em 0;
+}
+
+#mainHeading {
+    color: red;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+h1 {
+    align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+    background-color: burlywood;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 17px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#testP {
+    color: green;
+}
